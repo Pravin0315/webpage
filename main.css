@@ -1,0 +1,61 @@
+h1 {
+    Color: blue;
+    Font-size: 36pt;
+    text-align: center;
+    font-family: georgia;
+}
+
+h2 {
+    Color: green;
+    Font-size: 24pt;
+    text-align: left;
+    text-decoration: underline;
+    Font-family: georgia;  
+}
+.topnav {
+    background-color: #079407;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgb(24, 37, 228);
+    color: black;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h3 {
+    Color: green;
+    Font-size: 24pt;
+    text-align: left;
+    text-decoration: underline;
+    Font-family: georgia;
+}
+
+p {
+    font-family: arial;
+}
+
+footer {
+    Color: blue;
+    Font-size: 12pt;
+    text-align: left;
+    font-style: italic;
+}
+
+body {
+    background-color: rgb(172, 156, 86)
+}
